@@ -1,6 +1,6 @@
-#include "ft_putchar.c"
+void ft_putch(char c);
 
-#include "rush01.c"
+void rush01(int x, int y);
 
 int main()
 {
